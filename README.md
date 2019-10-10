@@ -12,4 +12,4 @@ Creating a scatter plot that shows the number of mice still alive through the co
 ![Survival Rate Graph](Pymaceuticals/Images/Survival%20Rate%20Graph.png)
 
 Creating a bar graph that compares the total % tumor volume change for each drug across the full 45 days.
-
+![Tumor Change Graph](Pymaceuticals/Images/Tumor%20Change%20Graph.png)
